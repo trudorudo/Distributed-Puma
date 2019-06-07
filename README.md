@@ -6,5 +6,6 @@ Creating Amazon-like app that
  * allow supervisor to track sales, over head costs and total profit of the store
  
 ## Screenshots
- https://github.com/trudorudo/bamazon.github.io/issues/1
+ 
+  ![Alt Text](https://user-images.githubusercontent.com/47117323/57987525-74610b00-7a50-11e9-9399-feac81a1428f.gif)
  
