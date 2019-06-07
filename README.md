@@ -7,5 +7,5 @@ Creating Amazon-like app that
  
 ## Screenshots
  
-  ![Alt Text](https://user-images.githubusercontent.com/47117323/57987525-74610b00-7a50-11e9-9399-feac81a1428f.gif)
+  ![Alt Text](https://user-images.githubusercontent.com/47117323/59130806-7971f580-893e-11e9-874a-84ae68b4c2a6.gif)
  
