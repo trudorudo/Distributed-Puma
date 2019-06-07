@@ -9,7 +9,7 @@ Creating Amazon-like app that
  ### customer side
   ![Alt Text](https://user-images.githubusercontent.com/47117323/59130806-7971f580-893e-11e9-874a-84ae68b4c2a6.gif)
   
-  ###manager side
+  ### manager side
   ![Alt Text](https://user-images.githubusercontent.com/47117323/59132206-8b559780-8942-11e9-824c-bd70534acedf.gif)
   
   ![Alt Text](https://user-images.githubusercontent.com/47117323/59132208-8db7f180-8942-11e9-9d54-386f4e76fdfc.gif)
